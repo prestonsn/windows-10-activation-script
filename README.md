@@ -1,0 +1,1 @@
+# windows-10-activation-script
