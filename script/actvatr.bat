@@ -15,7 +15,7 @@ cscript //nologo c:\windows\system32\slmgr.vbs /ipk WNMTR-4C88C-JK8YV-HQ7T2-76DF
 cscript //nologo c:\windows\system32\slmgr.vbs /ipk 2F77B-TNFGY-69QQF-B8YKP-D69TJ >nul
 echo ************************************ &echo.&echo.&set i=1
 :server
-if %i%==1 set KMS_Sev=kms.chinancce.com
+if %i%==1 set KMS_Sev=kms8.msguides.com
 if %i%==2 set KMS_Sev=NextLevel.uk.to
 if %i%==3 set KMS_Sev=GuangPeng.uk.to
 if %i%==4 set KMS_Sev=AlwaysSmile.uk.to
